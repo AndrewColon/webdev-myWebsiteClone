@@ -1,1 +1,33 @@
-/* CSS CODE HERE */
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#Header {
+    background-color: #235390;
+    width: 100vw;
+    height: 70px;
+}
+
+#logowhite {
+    height: 90px;
+    width: 153.64px;
+    margin: -7px 460px;
+}
+
+#site {
+    float: right;
+    margin: -51px 490px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 750;
+    font-style: normal;
+    letter-spacing: .8px;
+    text-transform: uppercase;
+    font-family: din-round,sans-serif;
+    -webkit-tap-highlight-color: transparent;
+
+}
+
+
