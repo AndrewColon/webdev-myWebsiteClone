@@ -30,4 +30,31 @@
 
 }
 
+#heropic {
+    height: 825px;
+    width: 100%;
+    background-color: #235390;
+    background-image: url(images/hero\ star-pattern.svg)
+}
+
+#earth {
+    margin: 225px 642px;
+    margin-left: 465px;
+}
+
+#flagbar {
+    width: 100%;
+    height: 75px;
+    background-color: #0a4a82;
+}
+
+#slogan {
+    font-size: 32px;
+    line-height: 40px;
+    margin-left: 865px;
+    margin: 0px 0px;
+    color: #fff;
+    font-family: din-round,sans-serif!important;
+}
+
 
