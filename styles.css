@@ -84,9 +84,8 @@
     font-size: 24px;
     font-weight: 700;
     font-family: din-round,sans-serif!important;
-    float: right;
-    position: absolute;
-    bottom: 500px;
+    margin: -80px 50px;
+
 }
 
 #rose {
@@ -98,7 +97,52 @@
     float: right;
 }
 
+#lessons {
+    height: 375px;
+    width: 1000px;
+    margin: 0px 475px;
+    border: black;
+    border: solid;
+}
 
+#header2 {
+    margin: 15px 100px;
+    font-family: din-round,sans-serif!important;
+}
 
+#learnboost {
+    height: 300px;
+    width: 1000px;
+    align-content: center;
+    margin: 0px 475px;
+    border: black;
+    border: solid;
+}
+
+#learnanywhere {
+    height: 300px;
+    width: 1000px;
+    align-content: center;
+    margin: 0px 475px;
+    border: black;
+    border: solid;
+}
+
+#Schools {
+    height: 250px;
+    width: 1000px;
+    align-content: center;
+    margin: 0px 475px;
+    border-bottom: black;
+    border: solid;
+}
+
+#starfooter {
+    height: 850px;
+    width: 100%;
+    background-color: #235390;
+    background-image: url(images/hero\ star-pattern.svg);
+    margin: 10px 0px;
+}
 
 
