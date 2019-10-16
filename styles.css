@@ -65,6 +65,10 @@
     max-width: 500px;
 }
 
+
+/* Information section */
+
+
 #HOWWEDOIT {
     height: 300px;
     width: 1000px;
@@ -106,9 +110,9 @@
 }
 
 #header2 {
-    margin: 0px 275px;
+    margin: 0px 252px;
     position: absolute;
-    bottom: -400px;
+    bottom: -375px;
     font-family: din-round,sans-serif!important;
     color: #3c3c3c;
     font-size: 24px;
@@ -156,17 +160,125 @@
 }
 
 .storeicon {
-    margin: 0 12px 12px 0;
     display: inline-block;
     text-align: center;
     cursor: pointer;
     touch-action: manipulation;
-    border-style: solid;
-    border-color: rgba(0,0,0,0);
-    border-width: 2px 2px 4px;
-    height: 100px;
-    width: 100px;
+    border: #afafaf solid 2px;
+    border-radius: 13px;
+    height: 60px;
+    width: 160px;
     margin: 175px 10px;
+    color: #4c4c4c;
+}
+
+#speaker {
+    margin: -15px 35px;
+    position: absolute;
+    right: 1350px;
+}
+
+#HI {
+    font-size: 19px;
+    font-weight: 700;
+    font-family: din-round,sans-serif!important;
+    color: #3c3c3c;
+    margin: -330px 50px;
+}
+
+#PI {
+    width: 300px;
+    color: #777;
+    font-size: 14px;
+    line-height: 1.7;
+    font-family: din-round,sans-serif!important;
+    margin: 340px 50px;
+    position: absolute;
+    right: 1250;
+}
+
+#HII {
+    font-size: 19px;
+    font-weight: 700;
+    font-family: din-round,sans-serif!important;
+    color: #3c3c3c;
+    margin: -300px 50px;
+    position: absolute;
+    right: 1250;
+    bottom: -260px;
+}
+
+#PII {
+    width: 300px;
+    color: #777;
+    font-size: 14px;
+    line-height: 1.7;
+    font-family: din-round,sans-serif!important;
+    margin: 470px 50px;
+    position: absolute;
+    right: 1250;
+}
+
+#checkmark {
+    margin: 420px 35px;
+    position: absolute;
+    right: 1350px;
+}
+
+#ruby {
+    margin: 300px 35px;
+    position: absolute;
+    right: 750px;
+}
+
+#HIII {
+    font-size: 19px;
+    font-weight: 700;
+    font-family: din-round,sans-serif!important;
+    color: #3c3c3c;
+    margin: 312px 65px;
+    position: absolute;
+    right: 460px;
+}
+
+#PIII {
+    width: 300px;
+    color: #777;
+    font-size: 14px;
+    line-height: 1.7;
+    font-family: din-round,sans-serif!important;
+    margin: 345px 647px;
+    position: absolute;
+    right: 1250;
+}
+
+#fireicon {
+    margin: 420px 35px;
+    position: absolute;
+    right: 750px;
+}
+
+#H4 {
+    font-size: 19px;
+    font-weight: 700;
+    font-family: din-round,sans-serif!important;
+    color: #3c3c3c;
+    margin: 345px 647px;
+    position: absolute;
+    right: 1250;
+    bottom: -905px;
+    width: 200px;
+}
+
+#PIV {
+    width: 300px;
+    color: #777;
+    font-size: 14px;
+    line-height: 1.7;
+    font-family: din-round,sans-serif!important;
+    margin: 470px 647px;
+    position: absolute;
+    right: 1250;
 }
 
 #AnywhereP {
@@ -184,8 +296,53 @@
     margin: 25px 60px;
 }
 
+#Appleicons {
+    float: left;
+}
+
 .icons {
+    font-family: sans-serif!important;
+    color: #4c4c4c;
+    font-size: 15px;
+    letter-spacing: normal;
+    border: #afafaf thin 2px;
+    float: right;
+}
+
+#AnalyticsLaptop {
+    width: 240px;
+    height: 200px;
+    margin: 40px -155px;
+}
+
+#header5 {
     font-family: din-round,sans-serif!important;
+    color: #3c3c3c;
+    font-size: 24px;
+    font-weight: 700;
+    margin: -215px 300px;
+}
+
+#SchoolsP {
+    color: #777;
+    font-size: 17px;
+    width: 750px;
+    font-family: sans-serif!important;
+    margin: 235px 300px;  
+}
+
+#Bluetext {
+    text-decoration: none;
+    color: #1cb0f6;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: .8px;
+    text-transform: uppercase;
+    font-family: sans-serif!important;
+    margin: -500px 300px;
+    position: absolute;
+    bottom: -1025px;
 }
     
 
