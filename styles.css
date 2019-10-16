@@ -151,6 +151,55 @@
     bottom: -935px;
 }
 
+#hikerbird {
+    float: right;
+}
+
+.storeicon {
+    margin: 0 12px 12px 0;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    touch-action: manipulation;
+    border-style: solid;
+    border-color: rgba(0,0,0,0);
+    border-width: 2px 2px 4px;
+    height: 100px;
+    width: 100px;
+    margin: 175px 10px;
+}
+
+#AnywhereP {
+    color: #777;
+    font-size: 17px;
+    width: 750px;
+    font-family: sans-serif!important;
+    margin: 110px 93px;
+    position: absolute;
+    right: 565px;   
+    text-align: left; 
+}
+
+#hikerbird {
+    margin: 25px 60px;
+}
+
+.icons {
+    font-family: din-round,sans-serif!important;
+}
+    
+
+
+#header4 {
+    margin: -300px 17px;
+    position: absolute;
+    bottom: -800px;
+    font-family: din-round,sans-serif!important;
+    color: #3c3c3c;
+    font-size: 24px;
+    font-weight: 700;
+}
+
 #header3 {
     margin: 0px 235px;
     position: absolute;
