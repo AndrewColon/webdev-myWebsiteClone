@@ -1,4 +1,7 @@
 
+
+/* HeaderSectionAndHeroPic */
+
 * {
     margin: 0px;
     padding: 0px;
@@ -54,9 +57,8 @@
     line-height: 40px;
     color: #fff;
     font-family: din-round,sans-serif!important;
-    position: absolute;
-    top: -492px;
-    left: -100px;
+    margin: -490px 850px;
+    width: 800px;
 }
 
 #wut {
@@ -78,12 +80,12 @@
     border: solid;
 }
 
-#burd {
+#WavingBird {
     height: 250px;
     width: 350;
 }
 
-#Yehaw {
+#HInit {
     color: #3c3c3c;
     font-size: 24px;
     font-weight: 700;
@@ -92,7 +94,27 @@
 
 }
 
-#rose {
+#Blueimg2 {
+    margin: 310px 260px;
+    height: 15px;
+    position: absolute;
+    right: 896px;
+}
+
+#Bluetext2 {
+    margin: 310px 90px;
+    position: absolute;
+    right: 896px;
+    color: #1cb0f6;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: .8px;
+    text-transform: uppercase;
+    font-family: din-round,sans-serif!important;
+}
+
+#Pinit {
     color: #777;
     font-size: 17px;
     width: 500px;
@@ -393,6 +415,8 @@
     border-bottom: black;
     border: solid;
 }
+
+/*Footer */
 
 #starfooter {
     height: 850px;
