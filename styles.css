@@ -145,8 +145,7 @@
     width: 1000px;
     align-content: center;
     margin: 0px 475px;
-    border: black;
-    border: solid;
+    border-bottom: solid #3c3c3c 1px;
 }
 
 #WavingBird {
@@ -196,8 +195,7 @@
     height: 375px;
     width: 1000px;
     margin: 0px 475px;
-    border: black;
-    border: solid;
+    border-bottom: solid #3c3c3c 1px;
 }
 
 #header2 {
@@ -257,7 +255,7 @@
     touch-action: manipulation;
     border: #afafaf solid 2px;
     border-radius: 13px;
-    height: 60px;
+    height: 70px;
     width: 160px;
     margin: 175px 10px;
     color: #4c4c4c;
@@ -463,8 +461,7 @@
     width: 1000px;
     align-content: center;
     margin: 0px 475px;
-    border: black;
-    border: solid;
+    border-bottom: solid #3c3c3c 1px;
 }
 
 #learnanywhere {
@@ -472,8 +469,7 @@
     width: 1000px;
     align-content: center;
     margin: 0px 475px;
-    border: black;
-    border: solid;
+    border-bottom: solid #3c3c3c 1px;
 }
 
 #Schools {
@@ -481,8 +477,6 @@
     width: 1000px;
     align-content: center;
     margin: 0px 475px;
-    border-bottom: black;
-    border: solid;
 }
 
 /*Footer */
