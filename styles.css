@@ -622,3 +622,109 @@ ul li {
     bottom: -185px;
     width: 150px;
 }
+
+#column5 {
+    margin: 15px 790px;
+    width: 350px;
+    position: relative;
+    bottom: 495px;
+    text-decoration: none;
+}
+
+#LL4 {
+    font-size: 19px;
+    font-weight: 700;
+    color:rgb(255, 255, 255);
+    -webkit-font-smoothing:antialiased;
+    font-stretch:100%;
+    text-decoration: none;
+    margin: -20px 1270px;
+    position: relative;
+    bottom: -185px;
+    width: 150px;
+}
+
+#column6 {
+    margin: 15px 790px;
+    width: 350px;
+    position: relative;
+    bottom: 430px;
+    text-decoration: none;
+}
+
+#LL5 {
+    font-size: 19px;
+    font-weight: 700;
+    color:rgb(255, 255, 255);
+    -webkit-font-smoothing:antialiased;
+    font-stretch:100%;
+    text-decoration: none;
+    margin: -20px 1270px;
+    position: relative;
+    bottom: -380px;
+    width: 150px;
+}
+
+#Linebreak {
+    width:1000px;
+    height: 1px;
+    background-color: #fff;
+    opacity: .5;
+    margin: -160px 450px
+}
+
+#languageHeader {
+    font-size: 19px;
+    font-weight: 700;
+    color:rgb(255, 255, 255);
+    -webkit-font-smoothing:antialiased;
+    font-stretch:100%;
+    margin: 195px 485px;
+}
+#column7 {
+    height: 100px;
+    width: 500px;
+    display: inline;
+}
+
+.Ulv1 {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1.5;
+    opacity: .5;
+    text-decoration: none;
+    font-family: din-round,sans-serif!important;
+    -webkit-font-smoothing:antialiased;
+    cursor:pointer;
+    list-style: none;
+    display: inline;
+    margin: -800px 10px;
+    position: relative;
+    bottom: 180px;
+    left: 476px;
+}
+
+#column7 {
+    height: 100px;
+    width: 500px;
+    display: inline;
+}
+
+.Uln1 {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1.5;
+    opacity: .5;
+    text-decoration: none;
+    font-family: din-round,sans-serif!important;
+    -webkit-font-smoothing:antialiased;
+    cursor:pointer;
+    list-style: none;
+    display: inline;
+    margin: -800px 10px;
+    position: relative;
+    bottom: 180px;
+    left: 476px;
+}
